@@ -12,4 +12,11 @@ print(len(model_name))      # Length of the string
 
 # we can print a few things as follows
 
-print(developer_name + " is developing a model named " + model_name + ". It is his first time trying this.")
+user_name = input("Hello, I am your Python AI. What is your name? ")
+user_age = input(f"Nice to meet you, {user_name}. How old are you? ")
+
+# Practicing type conversion (Day 2 concept)
+years_to_hundred = 100 - int(user_age)
+
+print(f"Stats for {user_name}:")
+print(f"Currently {user_age} years old. You will be 100 in {years_to_hundred} years!")
