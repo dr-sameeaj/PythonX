@@ -10,12 +10,13 @@ My objective is to build a strong foundation in Python to **develop interactive 
 | Day | Topic | Key Project/Script | Status |
 | :--- | :--- | :--- | :--- |
 | Day 01 | Introduction & Basics | `hello_world.py` | ✅ Complete |
-| Day 02 | Variables & Built-in Functions | `variables.py` | ✅ Complete |
-| Day 03 | Operators | - | 🏃 In Progress |
+| Day 02 | Variables & Built-in Functions | `variables.py` / `ai_assistant.py` | ✅ Complete |
+| Day 03 | Operators | `operators.py` / `ml_logic.py` | ✅ Complete |
+| Day 04 | Strings | - | 🏃 In Progress |
 
 ## 🛠️ Skills I'm Building
-- **Core:** Data Types, Built-in Functions, Variables
-- **AI Foundations:** Mathematical Operations, Data Structures
+- **Core:** Data Types, Built-in Functions, Variables, **Mathematical Operators**
+- **AI Foundations:** Error Calculation, Comparison Logic, Data Inspection
 - **Advanced:** (Planned) File Handling, Web Scraping, API Integration
 - **Frameworks:** (Planned) Pandas, NumPy, Scikit-learn
 
