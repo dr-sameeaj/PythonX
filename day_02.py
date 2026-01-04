@@ -17,6 +17,8 @@ user_age = input(f"Nice to meet you, {user_name}. How old are you? ")
 
 # Practicing type conversion (Day 2 concept)
 years_to_hundred = 100 - int(user_age)
+if (user_age>17):
+  print("Adult")
 
 print(f"Stats for {user_name}:")
 print(f"Currently {user_age} years old. You will be 100 in {years_to_hundred} years!")
