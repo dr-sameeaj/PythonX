@@ -13,11 +13,12 @@ My objective is to build a strong foundation in Python to **develop interactive 
 | Day 02 | Variables & Built-in Functions | `variables.py` / `ai_assistant.py` | ✅ Complete |
 | Day 03 | Operators | `operators.py` / `ml_logic.py` | ✅ Complete |
 | Day 04 | Strings | `strings.py` / `text_preprocessor.py` | ✅ Complete |
-| Day 05 | Lists | - | 🏃 In Progress |
+| Day 05 | Lists | `lists.py` / `ml_dataset_manager.py` | ✅ Complete |
+| Day 06 | Tuples | - | 🏃 In Progress |
 
 ## 🛠️ Skills I'm Building
-- **Core:** Data Types, Built-in Functions, Variables, Mathematical Operators
-- **AI Foundations:** Error Calculation, Comparison Logic, **String Manipulation (NLP Basics)**
+- **Core:** Data Types, Built-in Functions, Variables, Mathematical Operators, **List Structures**
+- **AI Foundations:** Error Calculation, Comparison Logic, String Manipulation (NLP Basics), **Data Collection & Sorting**
 - **Advanced:** (Planned) File Handling, Web Scraping, API Integration
 - **Frameworks:** (Planned) Pandas, NumPy, Scikit-learn
 
