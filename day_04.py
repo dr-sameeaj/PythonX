@@ -15,3 +15,5 @@ reversed_data = clean_data[::-1]
 
 print(status_report)
 print(f"Reversed for logic testing: {reversed_data}")
+
+# Note: Strings are immutable; methods return a new string rather than modifying the original.
