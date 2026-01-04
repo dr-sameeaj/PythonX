@@ -13,10 +13,10 @@ print(len(model_name))      # Length of the string
 # we can print a few things as follows
 
 user_name = input("Hello, I am your Python AI. What is your name? ")
-user_age = input(f"Nice to meet you, {user_name}. How old are you? ")
+user_age = input(int(f"Nice to meet you, {user_name}. How old are you? "))
 
 # Practicing type conversion (Day 2 concept)
-years_to_hundred = 100 - int(user_age)
+years_to_hundred = 100 - user_age
 
 print(f"Stats for {user_name}:")
 print(f"Currently {user_age} years old. You will be 100 in {years_to_hundred} years!")
