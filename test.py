@@ -1,1 +1,0 @@
-print("This is a test to check if git is working globally or not.")
