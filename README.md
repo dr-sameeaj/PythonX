@@ -14,7 +14,8 @@ My objective is to build a strong foundation in Python to **develop interactive 
 | Day 03 | Operators | `operators.py` / `ml_logic.py` | ✅ Complete |
 | Day 04 | Strings | `strings.py` / `text_preprocessor.py` | ✅ Complete |
 | Day 05 | Lists | `lists.py` / `ml_dataset_manager.py` | ✅ Complete |
-| Day 06 | Tuples | - | 🏃 In Progress |
+| Day 06 | Tuples | `tuples.py` / `model_specs.py` | ✅ Complete |
+| Day 07 | Sets | - | 🏃 In Progress |
 
 ## 🛠️ Skills I'm Building
 - **Core:** Data Types, Built-in Functions, Variables, Mathematical Operators, **List Structures**
