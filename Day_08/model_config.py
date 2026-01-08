@@ -23,4 +23,4 @@ model_metadata["environment"] = "Production"
 
 # 4. Extracting info for analysis
 print(f"Tracking Model: {model_metadata['model_name']}")
-print(f"Current Stats: {model_metadata}")
+print(f"Current Stats: {model_metadata}") 

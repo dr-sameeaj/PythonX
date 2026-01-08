@@ -15,12 +15,14 @@ My objective is to build a strong foundation in Python to **develop interactive 
 | Day 04 | Strings | `strings.py` / `text_preprocessor.py` | ✅ Complete |
 | Day 05 | Lists | `lists.py` / `ml_dataset_manager.py` | ✅ Complete |
 | Day 06 | Tuples | `tuples.py` / `model_specs.py` | ✅ Complete |
-| Day 07 | Sets | `model_specs.py` | ✅ Complete |
-| Day 08 | Dictionaries | - | 🏃 In Progress |
+| Day 07 | Sets | `set_logic.py` | ✅ Complete |
+| Day 08 | Dictionaries | `model_config.py` | ✅ Complete |
+| Day 09 | Conditionals | `model_decision_logic.py` | ✅ Complete |
+| Day 10 | Loops | - | 🏃 In Progress |
 
 ## 🛠️ Skills I'm Building
-- **Core:** Data Types, Built-in Functions, Variables, Mathematical Operators, **List Structures**
-- **AI Foundations:** Error Calculation, Comparison Logic, String Manipulation (NLP Basics), **Data Collection & Sorting**
+- **Core:** Data Types, Dictionaries, **Control Flow (If/Else)**
+- **AI Foundations:** NLP Basics, Hyperparameter Mapping, **Decision Logic & Thresholding**
 - **Advanced:** (Planned) File Handling, Web Scraping, API Integration
 - **Frameworks:** (Planned) Pandas, NumPy, Scikit-learn
 
