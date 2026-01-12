@@ -18,11 +18,14 @@ My objective is to build a strong foundation in Python to **develop interactive 
 | Day 07 | Sets | `set_logic.py` | ✅ Complete |
 | Day 08 | Dictionaries | `model_config.py` | ✅ Complete |
 | Day 09 | Conditionals | `model_decision_logic.py` | ✅ Complete |
-| Day 10 | Loops | - | 🏃 In Progress |
+| Day 10 | Loops | `model_trainer.py` | ✅ Complete |
+| Day 11 | Functions | `data_pipeline.py` | ✅ Complete |
+| Day 12 | Modules | `data_generator.py` | ✅ Complete |
+| Day 13 | List Comprehension | - | 🏃 In Progress |
 
 ## 🛠️ Skills I'm Building
-- **Core:** Data Types, Dictionaries, **Control Flow (If/Else)**
-- **AI Foundations:** NLP Basics, Hyperparameter Mapping, **Decision Logic & Thresholding**
+- **Core:** Control Flow (If/Else), **Functional Programming**, **Module Integration**
+- **AI Foundations:** Hyperparameter Mapping, **Training Epoch Simulation**, **Data Normalization Pipelines**
 - **Advanced:** (Planned) File Handling, Web Scraping, API Integration
 - **Frameworks:** (Planned) Pandas, NumPy, Scikit-learn
 
