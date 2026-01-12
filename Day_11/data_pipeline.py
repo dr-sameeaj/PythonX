@@ -8,6 +8,7 @@ def normalize_pixel_values(pixels):
     for p in pixels:
         normalized.append(round(p / 255.0, 3))
     return normalized
+    
 
 # 2. Defining a function to check model readiness
 def check_deployment_ready(accuracy, threshold=0.90):
