@@ -21,11 +21,12 @@ My objective is to build a strong foundation in Python to **develop interactive 
 | Day 10 | Loops | `model_trainer.py` | ✅ Complete |
 | Day 11 | Functions | `data_pipeline.py` | ✅ Complete |
 | Day 12 | Modules | `data_generator.py` | ✅ Complete |
-| Day 13 | List Comprehension | - | 🏃 In Progress |
+| Day 13 | List Comprehension | `data_cleaner.py` | ✅ Complete |
+| Day 14 | Higher Order Functions | - | 🏃 In Progress |
 
 ## 🛠️ Skills I'm Building
-- **Core:** Control Flow (If/Else), **Functional Programming**, **Module Integration**
-- **AI Foundations:** Hyperparameter Mapping, **Training Epoch Simulation**, **Data Normalization Pipelines**
+- **Core:** Modular Programming, **List Comprehensions (Optimized Loops)**, Functions
+- **AI Foundations:** Training Simulation, **Synthetic Data Generation**, Data Cleaning Logic
 - **Advanced:** (Planned) File Handling, Web Scraping, API Integration
 - **Frameworks:** (Planned) Pandas, NumPy, Scikit-learn
 
