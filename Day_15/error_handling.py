@@ -22,7 +22,7 @@ except TypeError as e:
 
 # 2. NameError: Using a variable that isn't defined
 try:
-    print(unknown_variable)
+    print("unknown_variable")
 except NameError as e:
     print(f"❌ NameError caught: {e}. (Reason: Variable not initialized)")
 
