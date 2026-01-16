@@ -24,11 +24,12 @@ My objective is to build a strong foundation in Python to **develop interactive 
 | Day 13 | List Comprehension | `data_cleaner.py` | ✅ Complete |
 | Day 14 | Higher Order Functions | `higher_order_logic.py` | ✅ Complete |
 | Day 15 | Python Type Errors | `error_handling.py` | ✅ Complete |
-| Day 16 | Python Datetime | - | 🏃 In Progress |
+| Day 16 | Python Datetime | `model_benchmarker.py` | ✅ Complete |
+| Day 17 | Exception Handling | - | 🏃 In Progress |
 
 ## 🛠️ Skills I'm Building
-- **Core:** **Debugging & Exception Analysis**, Functional Programming, Modular Architecture
-- **AI Foundations:** **Traceback Interpretation**, Automated Data Validation, Synthetic Data Generation
+- **Core:** **Temporal Data Management**, Debugging & Exception Analysis, Functional Programming
+- **AI Foundations:** **Performance Benchmarking**, **Model Versioning**, Traceback Interpretation
 - **Advanced:** (Planned) File Handling, Web Scraping, API Integration
 - **Frameworks:** (Planned) Pandas, NumPy, Scikit-learn
 
