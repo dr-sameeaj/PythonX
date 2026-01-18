@@ -25,11 +25,13 @@ My objective is to build a strong foundation in Python to **develop interactive 
 | Day 14 | Higher Order Functions | `higher_order_logic.py` | ✅ Complete |
 | Day 15 | Python Type Errors | `error_handling.py` | ✅ Complete |
 | Day 16 | Python Datetime | `model_benchmarker.py` | ✅ Complete |
-| Day 17 | Exception Handling | - | 🏃 In Progress |
+| Day 17 | Exception Handling | `resilient_trainer.py` | ✅ Complete |
+| Day 18 | Regular Expressions | `text_preprocessor.py` | ✅ Complete |
+| Day 19 | File Handling | - | 🏃 In Progress |
 
 ## 🛠️ Skills I'm Building
-- **Core:** **Temporal Data Management**, Debugging & Exception Analysis, Functional Programming
-- **AI Foundations:** **Performance Benchmarking**, **Model Versioning**, Traceback Interpretation
+- **Core:** **Pattern Matching (Regex)**, Exception Handling (Try/Except), Temporal Data Management
+- **AI Foundations:** **NLP Text Preprocessing**, **Resilient Pipeline Design**, Model Versioning
 - **Advanced:** (Planned) File Handling, Web Scraping, API Integration
 - **Frameworks:** (Planned) Pandas, NumPy, Scikit-learn
 
