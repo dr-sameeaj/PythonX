@@ -27,12 +27,13 @@ My objective is to build a strong foundation in Python to **develop interactive 
 | Day 16 | Python Datetime | `model_benchmarker.py` | ✅ Complete |
 | Day 17 | Exception Handling | `resilient_trainer.py` | ✅ Complete |
 | Day 18 | Regular Expressions | `text_preprocessor.py` | ✅ Complete |
-| Day 19 | File Handling | - | 🏃 In Progress |
+| Day 19 | File Handling | `dataset_manager.py` | ✅ Complete |
+| Day 20 | PIP & APIs | - | 🏃 In Progress |
 
 ## 🛠️ Skills I'm Building
-- **Core:** **Pattern Matching (Regex)**, Exception Handling (Try/Except), Temporal Data Management
-- **AI Foundations:** **NLP Text Preprocessing**, **Resilient Pipeline Design**, Model Versioning
-- **Advanced:** (Planned) File Handling, Web Scraping, API Integration
+- **Core:** **Data Persistence (JSON/TXT)**, Pattern Matching (Regex), Exception Handling
+- **AI Foundations:** **Configuration Management**, **Persistent Logging**, NLP Text Preprocessing
+- **Advanced:** (Planned) Web Scraping, API Integration, Data Analysis
 - **Frameworks:** (Planned) Pandas, NumPy, Scikit-learn
 
 ---
