@@ -1,0 +1,56 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "Miss",
+        "first": "Chlo\u00e9",
+        "last": "Laurent"
+    },
+    "location": {
+        "street": {
+            "number": 9683,
+            "name": "Avenue du Fort-Caire"
+        },
+        "city": "Poitiers",
+        "state": "C\u00f4te-D'Or",
+        "country": "France",
+        "postcode": 60019,
+        "coordinates": {
+            "latitude": "-17.9487",
+            "longitude": "86.4898"
+        },
+        "timezone": {
+            "offset": "-12:00",
+            "description": "Eniwetok, Kwajalein"
+        }
+    },
+    "email": "chloe.laurent@example.com",
+    "login": {
+        "uuid": "3740f1b3-878f-4c6f-959f-21a073fb2ead",
+        "username": "yellowcat179",
+        "password": "mollie",
+        "salt": "EG7Uz03v",
+        "md5": "cf62579f76dbc8d564ef8a17cfc79b49",
+        "sha1": "3aaeb35b2d88c30a01a204b45019b6870b136009",
+        "sha256": "f8e2b6016095b75ec73e27b57cbd31511df26f3a0014a7c590bc8dc5029920fb"
+    },
+    "dob": {
+        "date": "1982-12-29T22:20:33.387Z",
+        "age": 43
+    },
+    "registered": {
+        "date": "2002-07-07T03:22:00.183Z",
+        "age": 23
+    },
+    "phone": "02-96-18-68-65",
+    "cell": "06-92-72-84-59",
+    "id": {
+        "name": "INSEE",
+        "value": "2821175787686 01"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/44.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+    },
+    "nat": "FR"
+}
