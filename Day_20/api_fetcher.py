@@ -7,6 +7,7 @@ import json
 # 1. Target a public API (Example: Random User Generator)
 URL = "https://randomuser.me/api/"
 
+
 try:
     # 2. GET Request: Fetching data from the web
     response = requests.get(URL)
