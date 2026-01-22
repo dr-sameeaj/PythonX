@@ -30,14 +30,13 @@ My objective is to build a strong foundation in Python to **develop interactive 
 | Day 19 | File Handling | `dataset_manager.py` | ✅ Complete |
 | Day 20 | PIP & APIs | `api_fetcher.py` | ✅ Complete |
 | Day 21 | Classes & Objects | `ai_model_class.py` | ✅ Complete |
-| Day 22 | Web Scraping | - | 🏃 In Progress |
-
-
+| Day 22 | Web Scraping | `web_scraper.py` | ✅ Complete |
+| Day 23 | Virtual Environments | - | 🏃 In Progress |
 
 ## 🛠️ Skills I'm Building
-- **Core:** **Object-Oriented Programming (OOP)**, Environment Management, API Integration
-- **AI Foundations:** **Model Architecture Design**, Encapsulation, Real-time Data Fetching
-- **Advanced:** (Planned) Web Scraping, API Integration, Data Analysis
+- **Core:** **Web Scraping (BeautifulSoup)**, Object-Oriented Programming (OOP), API Integration
+- **AI Foundations:** **Custom Dataset Collection**, **Model Architecture Design**, Real-time Data Fetching
+- **Advanced:** (Planned) Virtual Environments, Data Analysis, System Automation
 - **Frameworks:** (Planned) Pandas, NumPy, Scikit-learn
 
 ---
