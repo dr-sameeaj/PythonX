@@ -34,7 +34,7 @@ My objective is to build a strong foundation in Python to **develop interactive 
 | Day 23 | Virtual Environments | - | 🏃 In Progress |
 
 ## 🛠️ Skills I'm Building
-- **Core:** **Web Scraping (BeautifulSoup)**, Object-Oriented Programming (OOP), API Integration
+- **Core:** **Web Scraping (BeautifulSoup)**, OOPs, API Integration, Environment Isolation (venv), Package Management
 - **AI Foundations:** **Custom Dataset Collection**, **Model Architecture Design**, Real-time Data Fetching
 - **Advanced:** (Planned) Virtual Environments, Data Analysis, System Automation
 - **Frameworks:** (Planned) Pandas, NumPy, Scikit-learn
