@@ -31,11 +31,15 @@ My objective is to build a strong foundation in Python to **develop interactive 
 | Day 20 | PIP & APIs | `api_fetcher.py` | ✅ Complete |
 | Day 21 | Classes & Objects | `ai_model_class.py` | ✅ Complete |
 | Day 22 | Web Scraping | `web_scraper.py` | ✅ Complete |
-| Day 23 | Virtual Environments | - | 🏃 In Progress |
+| Day 23 | Virtual Environments | `venv in gitignore ` | ✅ Complete |
+| Day 24 | Statistics | `statistics_analyzer.py` | ✅ Complete |
+| Day 25 | Pandas | `data_explorer.py` | ✅ Complete |
+| Day 26 | Python Web (Flask) | - | 🏃 In Progress |
 
 ## 🛠️ Skills I'm Building
-- **Core:** **Web Scraping (BeautifulSoup)**, OOPs, API Integration, Environment Isolation (venv), Package Management
-- **AI Foundations:** **Custom Dataset Collection**, **Model Architecture Design**, Real-time Data Fetching
+## 🛠️ Skills I'm Building
+- **Core:** **Pandas (Data Manipulation)**, Descriptive Statistics, Environment Isolation
+- **AI Foundations:** **Automated Data Summarization**, Data Distribution Analysis, Project Reproducibility
 - **Advanced:** (Planned) Virtual Environments, Data Analysis, System Automation
 - **Frameworks:** (Planned) Pandas, NumPy, Scikit-learn
 
