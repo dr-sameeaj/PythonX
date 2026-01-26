@@ -35,11 +35,12 @@ My objective is to build a strong foundation in Python to **develop interactive 
 | Day 24 | Statistics | `statistics_analyzer.py` | ✅ Complete |
 | Day 25 | Pandas | `data_explorer.py` | ✅ Complete |
 | Day 26 | Python Web (Flask) | `app.py` | ✅ Complete |
-| Day 27 | Flask Routing | - | 🏃 In Progress |
+| Day 27 | Flask Routing | `event_portal.py` | ✅ Complete |
+| Day 28 | API Endpoints (ML Delivery) | - | 🏃 In Progress |
 
 ## 🛠️ Skills I'm Building
-- **Core:** **Web Development (Flask)**, Pandas DataFrames, Environment Isolation (venv)
-- **AI Foundations:** **Building Web Interfaces for Models**, Automated Data Insights, Project Reproducibility
+- **Core:** **API Design**, **Web Development (Flask)**, Flask Routing, Pandas DataFrames, Environment Isolation (venv)
+- **AI Foundations:** **Model Development Architecture** **Building Web Interfaces for Models**, Automated Data Insights, Project Reproducibility
 - **Advanced:** (Planned) System Automation, API Development, Deployment
 - **Frameworks:** Flask, Pandas, (Planned) NumPy, Scikit-learn
 
