@@ -14,6 +14,7 @@ def home():
     return "<h1>Eventopia ML Dashboard</h1><p>Navigate to /api/events to see raw data.</p>"
 
 # This is an API route - essential for AI to send/receive data
+
 @app.route('/api/events')
 def get_events():
     return jsonify(events)
